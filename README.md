@@ -1,3 +1,3 @@
 # dojo_w14
-Delivering on the presentation we realized on the last dojo about house prices.
-3 hour duration to create the algorithm 
+Delivering on the project about housing we presented to our client last week
+3 hour duration to create
